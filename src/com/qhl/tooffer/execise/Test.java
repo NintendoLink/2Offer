@@ -19,5 +19,7 @@ public class Test {
         System.out.println(list.poll());
         System.out.println(list.poll());
         System.out.println(list.poll());
+
+
     }
 }

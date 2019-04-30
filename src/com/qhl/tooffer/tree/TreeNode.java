@@ -10,6 +10,9 @@ public class TreeNode {
     TreeNode left = null;
     TreeNode right = null;
 
+    //父节点
+    TreeNode next = null;
+
     public TreeNode(int val) {
         this.val = val;
     }

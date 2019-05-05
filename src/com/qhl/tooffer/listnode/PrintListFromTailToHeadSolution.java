@@ -25,6 +25,8 @@ public class PrintListFromTailToHeadSolution {
                 arr.add(listNode.val);
             }
             return arr;
+
+            //利用栈
 //        if (listNode ==null){
 //            return new ArrayList<>();
 //        }
